@@ -4,7 +4,7 @@ import math
 
 def remove_spaces(sentence):
     return ''.join(sentence.split(' '))
-#Здесь был денчик
+#Здесь был денчик ауууу
 
 
 
